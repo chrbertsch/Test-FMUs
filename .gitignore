@@ -1,0 +1,8 @@
+# build artifacts
+.idea/
+build/
+fmi1_cs/
+fmi1_me/
+fmi2/
+fmi3/
+*_ref.svg
